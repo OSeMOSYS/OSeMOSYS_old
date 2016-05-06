@@ -13,8 +13,6 @@ extensions = [
 source_suffix = '.rst'
 master_doc = 'index'
 
-# The master toctree document.
-master_doc = 'OSeMOSYS_2015_08_27'
 
 # General information about the project.
 project = 'OSeMOSYS'
