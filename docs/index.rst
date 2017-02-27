@@ -11,11 +11,11 @@ Welcome to OSeMOSYS documentation!
 This document contains the following pages:
 
 .. toctree::
-	:maxdepth: 1
-   
-	overview
-	Features
-	Example
+   :maxdepth: 1
+
+   overview
+   features
+   example
 
 
 Indices and tables
