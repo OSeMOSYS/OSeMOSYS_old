@@ -13,7 +13,7 @@ This document contains the following pages:
 .. toctree::
 	:maxdepth: 1
    
-	Overview
+	overview
 	Features
 	Example
 
