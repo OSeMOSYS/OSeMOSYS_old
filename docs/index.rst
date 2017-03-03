@@ -11,7 +11,7 @@ Welcome to OSeMOSYS documentation!
 This document contains the following pages:
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    overview
    features
